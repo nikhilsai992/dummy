@@ -1,5 +1,5 @@
 # dummy
-** water
-* air
-* point
-* salt
+* water
+  * air
+  * point
+  * salt
