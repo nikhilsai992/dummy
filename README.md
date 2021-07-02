@@ -9,4 +9,4 @@ Both input signal and impulse response need not to be of same length.The output 
    
   * Cross Correlation is a measure of similarity of two signals.Let an input signal x(n) and the impulse response h(n), the cross correlation of these two signals y(n) is x(n)* h(-n).Cross correlation is used in pattern detection and signal detection.
  
-  * Auto Correlation Cross Correlation is a measure of similarity of signal with itself.It is a correlation of a signal with the time shifted version of itself.Let an input signal x(n),the auto correlation of this signal is y(n)= x(n)* x(-n).
+  * Auto Correlation  is a measure of similarity of signal with itself.It is a correlation of a signal with the time shifted version of itself.Let an input signal x(n),the auto correlation of this signal is y(n)= x(n)* x(-n).
