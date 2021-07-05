@@ -26,7 +26,7 @@ void resistor_color_coding()
             char color[7];
             printf("\nEnter the band %d : ",i+1);
             scanf("%s",&color);
-            int resVal = calValByCol(_strlwr(color));
+            int resVal = calValByCol(_strlwr(*color));
             if(resVal==-1)
             {
                 printf("%s is invalid colour!! Try again\n",color);
