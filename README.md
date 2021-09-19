@@ -1,8 +1,22 @@
-## Contributors List and Summary
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No of Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`99004990` |   Hemanth Naik H R |Analog modlation |  1   |   1   |  9  | 9  |
-`99004991` |   Cuddapah Nikhil Sai |Signals and Systems|  1  |   1   |  4  |  4  |
-`99004992` |   Ravish R Shah| Resistor Color coding |  1   |   1   |  6  |  6  |
-`99004993` |   Somya Gupta| Digital ELectronics|  1  |  1   |  9  |  9 |
-`99004994` |   Adithya Vamsi|Network theory|  3  |   2  |  13  |  13  |
+
+## High level requirements 
+
+|  Id | Description |
+| -----------|---------|
+|HLR01| User Interface |
+|HLR02|Accessing the database from excel | 
+|HLR03| Ananlysis of the database |
+|HLR04| Generating the necessary report and graphs |
+
+## Low level requirements
+
+|  Id | Description |
+| -----------|---------|
+ | LLR01 |Displaying the output |
+| LLR02| Implementing the excelhandler library |
+|LLR03|Display the result with decimal point precision and units.|
+|LLR04 |Identifying the class averages |
+|LLR05| Grading system for all the modules |
+|LLR06| Generating the bell curve |
+|LLR07| Generating the frequency graph |
+|LLR08| Generating graphical report  |
